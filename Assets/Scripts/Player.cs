@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
+// тест движения на 3 января
 
 public class Player : MonoBehaviour
 {
